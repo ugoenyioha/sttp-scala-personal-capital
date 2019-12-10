@@ -1,0 +1,5 @@
+**/application.conf
+### Scala template
+*.class
+*.log
+**/target/
